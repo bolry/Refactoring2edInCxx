@@ -9,4 +9,4 @@ endif()
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 set(CMAKE_CXX_STANDARD 98)
 
-add_executable(Refactoring2edInCxx_git main.cpp)
+add_executable(Refactoring2edInCxx_git main.cpp statement.cpp statement.h invoice.cpp invoice.h)
